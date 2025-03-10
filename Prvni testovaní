@@ -1,2 +1,3 @@
 Poznámka:
-Prní neuronka byla na 2 vrstvách a vykazovala cca 61 procent přesnost na testovací sadě, 48 procent na valadačních
+Prní neuronka byla na 2 vrstvách a vykazovala cca 61% přesnost na trénovacích datech, 48% na validačních datech.
+Druhé testování jsme přidali třetí vrstvu do modelu. Zpracovalo se 61 epoch a skončila s přesností 68% na trénovacích datech a 43% na validačních datech.
